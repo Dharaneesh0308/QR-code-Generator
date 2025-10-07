@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Advanced QR Code Generator - Embed Images & Videos</title>
+    <meta name="description" content="Generate custom QR codes with embedded images, videos, and full customization. Track history, download, and share your QR codes instantly." />
+    <meta name="author" content="Advanced QR Generator" />
+
+    <meta property="og:title" content="Advanced QR Code Generator - Embed Images & Videos" />
+    <meta property="og:description" content="Generate custom QR codes with embedded images, videos, and full customization. Track history, download, and share your QR codes instantly." />
+    <meta property="og:type" content="website" />
+    
+
+    
+    <link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#0a0a0a">
+
+  </head>
+
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx">
+      if ("serviceWorker" in navigator) {
+  navigator.serviceWorker.register("./service-worker.js")
+    .then(function(registration) {
+      console.log("Service Worker registered with scope:", registration.scope);
+    })
+    .catch(function(error) {
+      console.log("Service Worker registration failed:", error);
+    });
+}
+
+    </script>
+  </body>
+</html>
