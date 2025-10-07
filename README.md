@@ -15,9 +15,11 @@ A React-based web app that allows users to generate QR codes instantly for text,
 - Fully responsive and user-friendly design
 
 ## 📸 Screenshots
-![QR Generator Home](public/assets/screenshot1.png)
-![QR Code Generated](public/assets/screenshot2.png)
-![QR Code Generated](public/assets/screenshot3.png)
+
+![QR Generator Home](public/assets/Screenshot1.png)
+![QR Generator Home](public/assets/Screenshot2.png)
+![QR Generator Home](public/assets/Screenshot3.png)
+
 
 ---
 
