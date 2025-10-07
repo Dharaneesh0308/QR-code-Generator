@@ -1,22 +1,22 @@
-# í·© QR Code Generator
+echo "# ðŸ§© QR Code Generator
 
-## íº€ Description
+## ðŸš€ Description
 A **React-based web app** that allows users to generate QR codes instantly for **text, URLs, images, and videos**.
 
-## í·  Technologies Used
+## ðŸ§  Technologies Used
 - âš›ï¸ React JS
-- í·± HTML, CSS, JavaScript
-- í³¦ Library: qrcode.react
-- í·° Build Tool: Vite / Create React App
+- ðŸ§± HTML, CSS, JavaScript
+- ðŸ“¦ Library: qrcode.react
+- ðŸ§° Build Tool: Vite / Create React App
 
 ## âš™ï¸ Features
-- í³ Generate QR codes for text, links, or uploaded images
-- í·‘ï¸ Clear history of generated QR codes
-- í³± Fully responsive and user-friendly design
+- ðŸ“ Generate QR codes for text, links, or uploaded images
+- ðŸ—‘ï¸ Clear history of generated QR codes
+- ðŸ“± Fully responsive and user-friendly design
 
 ---
 
-### í²¡ Developer
+### ðŸ’¡ Developer
 **Created by:** Dharaneesh  
 **GitHub:** [@Dharaneesh0308](https://github.com/Dharaneesh0308)
-
+" > README.md
