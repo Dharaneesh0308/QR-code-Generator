@@ -1,4 +1,4 @@
-echo "# 🧩 QR Code Generator
+# 🧩 QR Code Generator
 
 ## 🚀 Description
 A **React-based web app** that allows users to generate QR codes instantly for **text, URLs, images, and videos**.
